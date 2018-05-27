@@ -6,12 +6,12 @@ Java project created during my course of study with my fellow group mates. Our o
 
 <br />
 <br />
-##Features<br />
+## Features<br />
 
 
 <br />
 <br />
-##Setting up<br />
+## Setting up<br />
 
 1. Import the project into your STS's workspace<br />
 
@@ -44,7 +44,7 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 <br />
 <br />
-##[Mechanic] Navigating the website <br />
+## [Mechanic] Navigating the website <br />
 
 1. Entering as a mechanic brings us to this page. The mechanic is then able to browse the catalog for parts within the store by selecting the "Browse Catalogue" button.<br />
 
