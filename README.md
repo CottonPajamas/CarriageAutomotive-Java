@@ -6,12 +6,12 @@ Java project created during my course of study with my fellow group mates. Our o
 
 <br />
 <br />
-Features:<br />
+##Features<br />
 
 
 <br />
 <br />
-Setting up:<br />
+##Setting up<br />
 
 1. Import the project into your STS's workspace<br />
 
@@ -44,7 +44,7 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 <br />
 <br />
-Navigating the website [Mechanic] <br />
+##[Mechanic] Navigating the website <br />
 
 1. Entering as a mechanic brings us to this page. The mechanic is then able to browse the catalog for parts within the store by selecting the "Browse Catalogue" button.<br />
 
@@ -59,9 +59,6 @@ Navigating the website [Mechanic] <br />
 ![](/Screenshots/Mechanic_search_results.JPG)
 
 4. To browse details for any individual parts, simply select the name of the part itself. Similarly, the user is able to add to his/her cart from the product details page as well.<br />
-
-
-
 
 5. User can view his "cart" by clicking the "Record Usage" button at the side of the page. Here, the latter is able to view details of items that he/she has selected as well as "Amend" or "Delete" selected items if the latter so chooses.<br />
 
