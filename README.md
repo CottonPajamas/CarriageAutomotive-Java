@@ -12,6 +12,7 @@ Features:<br />
 <br />
 <br />
 Setting up:<br />
+
 1. Import the project into your STS's workspace<br />
 
 2. Right-click the project and select "Properties". Navigate to "Java Build Path" and under "Libraries", ensure that your system library is using the appropriate Java Development Kit (Preferably JDK 1.8 and above). Otherwise select "Edit" and modify your system library settings.<br />
