@@ -96,7 +96,7 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 ![](/Screenshots/Admin_home_page.JPG)
 
-2. For instance, the latter is able to view and generate the "Product Reorder Report" by clicking the "Reorder Report" button at the side of the page.<br />
+2. For instance, the latter is able to view and generate the "Product Reorder Report" by clicking the "Reorder Report" button at the side of the page, thus bringing the latter to the page below.<br />
 
 ![](/Screenshots/Admin_reorder_report_page.JPG)
 
