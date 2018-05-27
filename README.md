@@ -31,7 +31,7 @@ Setting up:<br />
 
 ![](/Screenshots/Mechanic_catalogue_page.JPG)
 
-There are primarily two general roles that users are segregated on. Namely "admin" and "mechanic". Having administrative privileges grants admins with the ability to perform more tasks. Here are examples of each role which you can access the website by.<br /><br />
+There are primarily two general roles that users are segregated on. Namely "admin" and "mechanic". Having administrative privileges grants admins with the ability to perform more tasks. Below are examples of accounts which you can use to access the website in accordance to their respective roles.<br /><br />
 
 >>Username: Admin	[Administrator]<br />
 >>Password: 1234<br />
