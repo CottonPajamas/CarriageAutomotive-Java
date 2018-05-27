@@ -23,10 +23,21 @@ Setting up:<br />
 
 >>Username: Admin	[Administrator]<br />
 >>Password: 1234<br />
+
 <br />
+
 >>Username: Abraham [Mechanic]<br />
 >>Password: 1234<br />
+
 
 <br />
 <br />
 Navigating the website [Mechanic]<br />
+
+
+
+
+
+
+
+
