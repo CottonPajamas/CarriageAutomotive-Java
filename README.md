@@ -1,17 +1,30 @@
-# [Spring Framework] Carriage-Automotive-Inc
+# [Spring Framework] Carriage Automotive Inc
 Web development project created in Java using Spring Framework.
 
 <br />
 Java project created during my course of study with my fellow group mates. Our objective was to develop a web application for an automotive company, so as to simplify their inventory management processes.
 
+
 <br /><br />
 <br /><br />
+
 
 ## Features
 
+We explored the following aspects of the Spring framework.<br />
+
+- Spring Web MVC for the general architecture and layering of the application.<br />
+
+- Spring Security for authentication.<br />
+
+- Spring JPA for database access.<br />
+
+All of which are configured with the help of Spring Boot.
+
 
 <br /><br />
 <br /><br />
+
 
 ## Setting up
 
@@ -94,8 +107,17 @@ There are primarily two general roles that users are segregated on. Namely "admi
 ![](/Screenshots/Admin_users_page.JPG)
 
 
+<br /><br />
+<br /><br />
 
 
+## To be improved/resolved
+
+- Search can currently be done on the basis of "Supplier" as well, but at present it is not working perfectly well and will need to be refined.<br />
+
+- Date filtering ability and adding to cart functionality in the product details page not working for major browsers. [Last checked, only works on IE]<br />
+
+- Made greater use of internationalization.<br />
 
 
 
