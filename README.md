@@ -31,7 +31,7 @@ Java project created during my course of study with my fellow group mates. Our o
 
 8. You will be first greeted with the login page.
 
-![](/Screenshots/Mechanic_catalogue_page.JPG)
+![](/Screenshots/Login_page.JPG)
 
 There are primarily two general roles that users are segregated on. Namely "admin" and "mechanic". Having administrative privileges grants admins with the ability to perform more tasks. Below are examples of accounts which you can use to access the website in accordance to their respective roles.<br /><br />
 
@@ -73,7 +73,25 @@ There are primarily two general roles that users are segregated on. Namely "admi
 ![](/Screenshots/Mechanic_checkout_success_page.JPG)
 
 
+<br /><br />
+<br /><br />
 
+
+## [Administrator] Navigating the website
+
+1. As mentioned above, administrators are able to perform everything that the mechanic is capable of doing and more.<br />
+
+![](/Screenshots/Admin_home_page.JPG)
+
+2. For instance, the latter is able to view and generate the "Product Reorder Report" by clicking the "Reorder Report" button at the side of the page.<br />
+
+![](/Screenshots/Admin_reorder_report_page.JPG)
+
+3. Additionally, an admin is able to view the list of suppliers, users and make amendments if he/she desires. The latter is also capable of adding new suppliers, users and even products to the database through these pages. Here are some screenshots from these different pages.<br />
+
+![](/Screenshots/Admin_supplier_page.JPG)
+
+![](/Screenshots/Admin_users_page.JPG)
 
 
 
