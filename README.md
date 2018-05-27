@@ -117,7 +117,7 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 - Date filtering ability and adding to cart functionality in the product details page not working for major browsers. [Last checked, only works on IE]<br />
 
-- Made greater use of internationalization.<br />
+- Make greater use of internationalization througout the web application.<br />
 
 
 
