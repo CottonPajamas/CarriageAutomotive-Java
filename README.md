@@ -46,6 +46,7 @@ There are primarily two general roles that users are segregated on. Namely "admi
 <br />
 Navigating the website [Mechanic]<br />
 
+
 1. Entering as a mechanic brings us to this page. The mechanic is then able to browse the catalog for parts within the store by selecting the "Browse Catalogue" button.<br />
 
 ![](/Screenshots/Mechanic_home_page.JPG)
