@@ -5,13 +5,13 @@ Web development project created in Java using Spring Framework.
 Java project created during my course of study with my fellow group mates. Our objective was to develop a web application for an automotive company, so as to simplify their inventory management processes.
 
 <br />
-<br />
-## Features<br />
+
+## Features
 
 
 <br />
-<br />
-## Setting up<br />
+
+## Setting up
 
 1. Import the project into your STS's workspace<br />
 
@@ -43,8 +43,8 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 
 <br />
-<br />
-## [Mechanic] Navigating the website <br />
+
+## [Mechanic] Navigating the website
 
 1. Entering as a mechanic brings us to this page. The mechanic is then able to browse the catalog for parts within the store by selecting the "Browse Catalogue" button.<br />
 
