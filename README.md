@@ -43,6 +43,46 @@ Setting up:<br />
 <br />
 Navigating the website [Mechanic]<br />
 
+1. Entering as a mechanic brings us to this page. The mechanic is then able to browse the catalog for parts within the store by selecting the "Browse Catalogue" button.<br />
+
+![](/Screenshots/Mechanic_home_page.JPG)
+
+2. With the aid of a search bar and the ability to filter results by "Manufacturer", we hope to simplify the process for the user when searching the catalogue.<br />
+
+![](/Screenshots/Mechanic_catalogue_page.JPG)
+
+3. Example illustrating the results retrieved by using both the search and filter ability at the same time. Search can currently be done on the basis of "Part Id", "Description", "Color", "Manufacturer" and "Shelf Location". Furthermore, the user can easily add items to cart by specifying the quantitative value of a specific item he or she wishes to withdraw and selecting the "Add" button.<br />
+
+![](/Screenshots/Mechanic_search_results.JPG)
+
+4. To browse details for any individual parts, simply select the name of the part itself. Similarly, the user is able to add to his/her cart from the product details page as well.<br />
+
+
+
+
+5. User can view his "cart" by clicking the "Record Usage" button at the side of the page. Here, the latter is able to view details of items that he/she has selected as well as "Amend" or "Delete" selected items if the latter so chooses.<br />
+
+![](/Screenshots/Mechanic_checkout_page.JPG)
+
+6. Once satisfied, the user simply has to input the name of the client he/she is servicing and clicking the "Record Usage" button. Doing so, brings the user to the home page with the following message.<br />
+
+![](/Screenshots/Mechanic_checkout_success_page.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
