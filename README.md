@@ -4,12 +4,14 @@ Web development project created in Java using Spring Framework.
 <br />
 Java project created during my course of study with my fellow group mates. Our objective was to develop a web application for an automotive company, so as to simplify their inventory management processes.
 
-<br />
+<br /><br />
+<br /><br />
 
 ## Features
 
 
-<br />
+<br /><br />
+<br /><br />
 
 ## Setting up
 
@@ -42,7 +44,9 @@ There are primarily two general roles that users are segregated on. Namely "admi
 >>Password: 1234<br />
 
 
-<br />
+<br /><br />
+<br /><br />
+
 
 ## [Mechanic] Navigating the website
 
