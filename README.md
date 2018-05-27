@@ -27,8 +27,11 @@ Setting up:<br />
 
 7. To deploy the project, right-click the project and select "Run As" -> "Run on server". Select your desired server and click "Finish".<br />
 
-8. You will be first greeted with the login page. There are primarily two general roles that users are segregated on. Namely "admin" and "mechanic". Having administrative privileges grants admins with the ability to perform more tasks. Here are examples of each role which you can access the website by.<br /><br />
+8. You will be first greeted with the login page.
 
+![](/Screenshots/Mechanic_catalogue_page.JPG)
+
+There are primarily two general roles that users are segregated on. Namely "admin" and "mechanic". Having administrative privileges grants admins with the ability to perform more tasks. Here are examples of each role which you can access the website by.<br /><br />
 
 >>Username: Admin	[Administrator]<br />
 >>Password: 1234<br />
