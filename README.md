@@ -2,7 +2,7 @@
 Web development project created in Java using Spring Framework.
 
 <br />
-Java project created during my course of study with my fellow group mates. Our objective was to develop a web application for an automotive company, so as to simplify their inventory management processes.
+Java project created during my course of study. Objective was to develop a web application in order to improve the efficiency in managing inventory and equipment of an automotive company.
 
 
 <br /><br />
@@ -121,7 +121,11 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 
 
+<br /><br />
 
+<br /><br />
+
+Disclaimer: This company is a work of fiction. Any names or characters, places or addresses, events or incidents, are entirely fictitious. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
 
 
 
