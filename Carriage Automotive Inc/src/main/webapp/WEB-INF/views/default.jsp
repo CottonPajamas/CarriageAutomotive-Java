@@ -12,8 +12,8 @@
 		width="35%" height="35%" class="img-rounded" />
 
 
-	<h2>WELCOME TO STOCKIST</h2>
-	<h5>Stockist is a simple inventory management application for car
+	<h2>WELCOME TO CARRIAGE AUTOMOTIVE</h2>
+	<h5>Inventory management application for a car
 		dealership workshop</h5>
 	<h4 style="color: green">${checkoutSuccess}</h4>
 </div>
