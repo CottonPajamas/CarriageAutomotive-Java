@@ -128,6 +128,22 @@ There are primarily two general roles that users are segregated on. Namely "admi
 - Expand the use of internationalization in the web application.<br />
 
 
+<br /><br />
+<br /><br />
+
+
+## General technical information
+
+- Java SE Development Kit (JDK) 8 Update 151<br />
+
+- Spring Tool Suite Version: 3.9.4.RELEASE<br />
+
+- Pivotal tc Server Developer Edition<br />
+
+- MySql Workbench<br />
+
+
+
 
 <br /><br />
 
