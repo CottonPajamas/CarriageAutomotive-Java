@@ -21,7 +21,7 @@ We explored the following aspects of Spring framework.<br />
 
 All of which are configured with the help of Spring Boot.
 
-Bootstrap was used for the front-end design.
+Bootstrap was used for its front-end design.
 
 
 <br /><br />
