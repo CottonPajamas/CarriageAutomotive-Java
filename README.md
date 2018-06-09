@@ -43,9 +43,9 @@ Bootstrap was used for the front-end design.
 6. Head back to STS. Expand the "src/main/resources" folder and open "application.properties". Here, kindly specify your database configuration details. This includes the database URL, and the appropriate credentials to access your database.<br />
 
 7. To deploy the project, right-click the project and select "Run As" -> "Run on server". Select your desired server and click "Finish".
->>Project facet Cloud Foundry Standalone Application version 1.0 is not supported.
+>>Error: Project facet Cloud Foundry Standalone Application version 1.0 is not supported.
 ```sh
-Note: If you encounter the following error, right-click your project, under "Properties", 
+If you encounter the following error, right-click your project, under "Properties", 
 select "Project Facets" and uncheck "Cloud Foundry Standalone Application". Then hit 
 "Apply" and close. Repeat step 7 again.
 ```
