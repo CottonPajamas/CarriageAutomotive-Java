@@ -11,7 +11,7 @@ Java project created during my course of study. Objective was to develop a web a
 
 ## Features
 
-We explored the following aspects of the Spring framework.<br />
+We explored the following aspects of Spring framework.<br />
 
 - Spring Web MVC for the general architecture and layering of the application.<br />
 
@@ -20,6 +20,8 @@ We explored the following aspects of the Spring framework.<br />
 - Spring JPA for database access.<br />
 
 All of which are configured with the help of Spring Boot.
+
+Bootstrap was used for the front-end design.
 
 
 <br /><br />
@@ -40,7 +42,13 @@ All of which are configured with the help of Spring Boot.
 
 6. Head back to STS. Expand the "src/main/resources" folder and open "application.properties". Here, kindly specify your database configuration details. This includes the database URL, and the appropriate credentials to access your database.<br />
 
-7. To deploy the project, right-click the project and select "Run As" -> "Run on server". Select your desired server and click "Finish".<br />
+7. To deploy the project, right-click the project and select "Run As" -> "Run on server". Select your desired server and click "Finish".
+>>Project facet Cloud Foundry Standalone Application version 1.0 is not supported.
+```sh
+Note: If you encounter the following error, right-click your project, under "Properties", 
+select "Project Facets" and uncheck "Cloud Foundry Standalone Application". Then hit 
+"Apply" and close. Repeat step 7 again.
+```
 
 8. You will be first greeted with the login page.
 
