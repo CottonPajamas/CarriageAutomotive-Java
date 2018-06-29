@@ -140,6 +140,8 @@ There are primarily two general roles that users are segregated on. Namely "admi
 
 - Pivotal tc Server Developer Edition<br />
 
+- 5.7.20-log MySQL Community Server (GPL)<br />
+
 - MySql Workbench 6.3<br />
 
 
